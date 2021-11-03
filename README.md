@@ -17,3 +17,7 @@ a selected meal.
 meals from themealdb.com. 
 * Allow the user to display a list of areas (Chinese, French, Thai, etc.). 
 * Allow the user to display a list of meals based on a selected area. 
+
+
+https://user-images.githubusercontent.com/92764174/139999225-38224d7c-4619-458c-b167-379cfc414c83.mp4
+
